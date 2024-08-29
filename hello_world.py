@@ -1,4 +1,4 @@
-def say_hello():
+def hello_world():
     print("Hello, World!")
 
-say_hello()
+hello_world()
